@@ -15,7 +15,7 @@ a. Some changes were made to our final project schemas in order to avoid runtime
 
 4. A LIST OF ALL REFERENCES USED TO COMPLETE THE ASSIGNMENT, INCLUDING PEERS (IF APPLICABLE)
 a. Faker documentation (https://faker.readthedocs.io/en/master/index.html)
-b. Elise May - final project collaborator
+b. Elise May -- final project collaborator
 c. in-class PyCharm examples (to connect to MySQL database)
 d. To read csv file in Python: https://docs.python.org/3/library/csv.html, https://pythonprogramming.net/reading-csv-files-python-3/
 
